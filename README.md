@@ -1,4 +1,4 @@
-# Mifos Self Service App
+# Internet Banking
 
 ## Getting started
 You can follow this README or you can follow this [video](https://mifosforge.jira.com/wiki/spaces/docs/pages/498794497/Developer+Environment+Setup+for+Online+Banking+App+2.0).
